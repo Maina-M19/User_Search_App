@@ -22,7 +22,7 @@ A full-stack web application that allows users to perform free-text searches by 
 - **Backend**:
   - Flask
   - Python 3
-  - SQLite (or another database, if specified)
+  - SQLite
 
 ---
 
